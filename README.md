@@ -8,6 +8,6 @@
 - increase user interactivity and enhance user experience 
 - give your website a real wow factor
 
-### Single Page Portfolio Website
-`Introduction_to_HTML_CSS_JavaScript`/`singlepagewebsite`/`index.html`
+### Single Page Portfolio Website `Introduction_to_HTML_CSS_JavaScript`/`singlepagewebsite`/`index.html`
+
 **Preview:** https://htmlpreview.github.io/
