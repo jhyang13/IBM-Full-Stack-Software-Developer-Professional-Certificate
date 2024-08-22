@@ -10,7 +10,7 @@
 
 ### Single Page Portfolio Website 
 
-**Path:** `Introduction_to_HTML_CSS_JavaScript`/`singlepagewebsite`/`index.html`
+**File Path:** `Introduction_to_HTML_CSS_JavaScript`/`singlepagewebsite`/`index.html`
 
 **Preview HTML:** https://htmlpreview.github.io/
 
