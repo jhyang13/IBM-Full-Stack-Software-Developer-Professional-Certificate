@@ -12,4 +12,5 @@
 
 **Path:** `Introduction_to_HTML_CSS_JavaScript`/`singlepagewebsite`/`index.html`
 
-**Preview:** https://htmlpreview.github.io/
+**Preview HTML:** https://htmlpreview.github.io/
+
