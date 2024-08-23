@@ -23,3 +23,13 @@
 - Employ various React concepts and features, including props, states, hooks, forms, and Redux
 - Demonstrate your React skills by building several front-end applications such as a shopping cart
 
+## Developing Back-End Apps with Node.js and Express
+### What you'll learn
+- Create server-side applications using the Node.js JavaScript run time
+- Extend your Node.js applications with third-party packages and frameworks, including Express
+- Use npm to manage Node.js packages in your Node.js application
+- Develop asynchronous callback functions and promises to complete asynchronous operations
+
+
+
+  
