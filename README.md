@@ -23,6 +23,7 @@
 - Employ various React concepts and features, including props, states, hooks, forms, and Redux
 - Demonstrate your React skills by building several front-end applications such as a shopping cart
 
+**URL of the Final Project:** https://jhyang13.github.io/e-plantShopping/
 ![image](https://github.com/user-attachments/assets/3e23923e-40f4-42d0-8744-dfb9966ebd3b)
 
 ## Developing Back-End Apps with Node.js and Express
