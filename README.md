@@ -15,3 +15,11 @@
 **Preview HTML:** https://htmlpreview.github.io/
 
 ![image](https://github.com/user-attachments/assets/b2163f64-949a-4a63-9678-3aafd2ea2a10)
+
+## Developing Front-End Apps with React
+### What you'll learn
+- Develop interactive user interfaces (UIs) and web applications using JavaScript technologies including React, JSX, and ES6
+- Build dynamic front-end applications quickly and easily with reusable React components
+- Employ various React concepts and features, including props, states, hooks, forms, and Redux
+- Demonstrate your React skills by building several front-end applications such as a shopping cart
+
