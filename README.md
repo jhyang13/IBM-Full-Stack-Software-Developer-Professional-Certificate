@@ -36,6 +36,11 @@
 - Use npm to manage Node.js packages in your Node.js application
 - Develop asynchronous callback functions and promises to complete asynchronous operations
 
-
+## Django Application Development with SQL and Databases
+### What you'll learn
+- Explain what a database is and create an entity relationship data model for a relational database
+- Compose SQL queries to insert, select, update, and delete data in a database
+- Use Django ORM to build object-oriented databases
+- Integrate Bootstrap into your Django template and build interactive web pages
 
   
