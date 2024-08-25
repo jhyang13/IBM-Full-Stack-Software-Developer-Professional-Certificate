@@ -43,4 +43,13 @@
 - Use Django ORM to build object-oriented databases
 - Integrate Bootstrap into your Django template and build interactive web pages
 
+## Application Development using Microservices and Serverless
+### What you'll learn
+- Summarize the fundamentals of Microservices, their advantages, and contrast with monolithic architectures
+- Create REST API endpoints and invoke them using cURL and Postman; Use SwaggerUI to document and test APIs
+- Create, and deploy microservices using Docker containers and serverless technologies like IBM Code Engine
+- Practice hands-on with labs and projects using a no-charge cloud-based environment
   
+
+
+
