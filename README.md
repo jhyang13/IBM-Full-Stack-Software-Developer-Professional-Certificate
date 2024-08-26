@@ -27,6 +27,8 @@
 - Employ various React concepts and features, including props, states, hooks, forms, and Redux
 - Demonstrate your React skills by building several front-end applications such as a shopping cart
 
+### Paradise Nursery Shopping Application
+
 **URL of the Final Project:** https://jhyang13.github.io/e-plantShopping/
 
 ![image](https://github.com/user-attachments/assets/3e23923e-40f4-42d0-8744-dfb9966ebd3b)
@@ -46,6 +48,10 @@
 - Compose SQL queries to insert, select, update, and delete data in a database
 - Use Django ORM to build object-oriented databases
 - Integrate Bootstrap into your Django template and build interactive web pages
+
+### Add a New Assessment Feature to an Online Course App
+
+**URL of the Final Project:** https://jhyang13.github.io/e-plantShopping/
 
 ![屏幕截图 2024-08-26 164503](https://github.com/user-attachments/assets/a160eff9-3399-4a1c-aad7-87f71dc25eec)
 
