@@ -1,5 +1,6 @@
 # IBM-Full-Stack-Software-Developer-Professional-Certificate
 
+
 ## Introduction to HTML, CSS, & JavaScript
 ### By learning the fundamentals of HTML5, CSS, and JavaScript you will be able to combine them to:  
 - create the basic structure of a website  
@@ -18,6 +19,7 @@
 
 ![image](https://github.com/user-attachments/assets/b2163f64-949a-4a63-9678-3aafd2ea2a10)
 
+
 ## Developing Front-End Apps with React
 ### What you'll learn
 - Develop interactive user interfaces (UIs) and web applications using JavaScript technologies including React, JSX, and ES6
@@ -29,6 +31,7 @@
 
 ![image](https://github.com/user-attachments/assets/3e23923e-40f4-42d0-8744-dfb9966ebd3b)
 
+
 ## Developing Back-End Apps with Node.js and Express
 ### What you'll learn
 - Create server-side applications using the Node.js JavaScript run time
@@ -36,12 +39,16 @@
 - Use npm to manage Node.js packages in your Node.js application
 - Develop asynchronous callback functions and promises to complete asynchronous operations
 
+
 ## Django Application Development with SQL and Databases
 ### What you'll learn
 - Explain what a database is and create an entity relationship data model for a relational database
 - Compose SQL queries to insert, select, update, and delete data in a database
 - Use Django ORM to build object-oriented databases
 - Integrate Bootstrap into your Django template and build interactive web pages
+
+![屏幕截图 2024-08-26 164503](https://github.com/user-attachments/assets/a160eff9-3399-4a1c-aad7-87f71dc25eec)
+
 
 ## Application Development using Microservices and Serverless
 ### What you'll learn
