@@ -51,7 +51,7 @@
 
 ### Final Project: Add a New Assessment Feature to an Online Course App
 
-**URL of the Final Project:** https://jhyang13.github.io/e-plantShopping/
+**URL of the Final Project:** https://github.com/jhyang13/IBM_Online_Course_App
 
 ![屏幕截图 2024-08-26 164503](https://github.com/user-attachments/assets/a160eff9-3399-4a1c-aad7-87f71dc25eec)
 
