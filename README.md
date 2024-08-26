@@ -50,7 +50,7 @@
 - Create, and deploy microservices using Docker containers and serverless technologies like IBM Code Engine
 - Practice hands-on with labs and projects using a no-charge cloud-based environment
 
-** URLs of Final Project: Microservices based Serverless Application:**
+**URLs of Final Project: Microservices based Serverless Application:**
 
 ibmcloud ce application create --name prodlist --image us.icr.io/${SN_ICR_NAMESPACE}/prodlist --registry-secret icr-secret --port 5000 --build-context-dir products_list --build-source https://github.com/ibm-developer-skills-network/dealer_evaluation_backend.git
 
