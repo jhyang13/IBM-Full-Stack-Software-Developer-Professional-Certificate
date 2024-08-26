@@ -71,6 +71,14 @@
 - ibmcloud ce application create --name dealerdetails --image us.icr.io/${SN_ICR_NAMESPACE}/dealerdetails --registry-secret icr-secret --port 8080 --build-context-dir dealer_details --build-source https://github.com/ibm-developer-skills-network/dealer_evaluation_backend.git
 - ibmcloud ce application create --name frontend --image us.icr.io/${SN_ICR_NAMESPACE}/frontend --registry-secret icr-secret --port 5001 --build-source .
 
+## Introduction to Containers w/ Docker, Kubernetes & OpenShift
+### What you'll learn
+- Using containers, learn how to move applications quickly across any environment
+- Build cloud native applications using Docker, Kubernetes, OpenShift, and Istio
+- Describe and leverage Kubernetes architecture to set up and use an entire lifecycle-based container management system
+- Create and leverage a YAML deployment file to configure and create resources such as pods, services, replicasets, and others in a declarative way
+
+
 
 
 
