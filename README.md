@@ -49,6 +49,8 @@
 
 ![屏幕截图 2024-08-26 164503](https://github.com/user-attachments/assets/a160eff9-3399-4a1c-aad7-87f71dc25eec)
 
+![屏幕截图 2024-08-26 164424](https://github.com/user-attachments/assets/9f743c4f-1d4d-4e52-bc13-c92e9c5c964c)
+
 
 ## Application Development using Microservices and Serverless
 ### What you'll learn
