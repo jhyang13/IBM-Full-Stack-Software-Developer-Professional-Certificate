@@ -9,7 +9,7 @@
 - increase user interactivity and enhance user experience 
 - give your website a real wow factor
 
-### Single Page Portfolio Website 
+### Final Project: Single Page Portfolio Website 
 
 **File Path:** `Introduction_to_HTML_CSS_JavaScript`/`singlepagewebsite`/`index.html`
 
@@ -27,7 +27,7 @@
 - Employ various React concepts and features, including props, states, hooks, forms, and Redux
 - Demonstrate your React skills by building several front-end applications such as a shopping cart
 
-### Paradise Nursery Shopping Application
+### Final Project: Paradise Nursery Shopping Application
 
 **URL of the Final Project:** https://jhyang13.github.io/e-plantShopping/
 
@@ -49,7 +49,7 @@
 - Use Django ORM to build object-oriented databases
 - Integrate Bootstrap into your Django template and build interactive web pages
 
-### Add a New Assessment Feature to an Online Course App
+### Final Project: Add a New Assessment Feature to an Online Course App
 
 **URL of the Final Project:** https://jhyang13.github.io/e-plantShopping/
 
