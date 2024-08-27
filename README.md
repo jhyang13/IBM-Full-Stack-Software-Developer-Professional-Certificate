@@ -80,7 +80,7 @@
 
 ### Final Project: Build and Deploy a Simple Guestbook App
 
-![屏幕截图 2024-08-26 205050](https://github.com/user-attachments/assets/61703b1c-9a17-46ed-944c-0bff40287a11)
+![屏幕截图 2024-08-26 205050](https://github.com/user-attachments/assets/e233f01a-fcc3-4fd0-a6e2-64924274d203)
 
 
 
