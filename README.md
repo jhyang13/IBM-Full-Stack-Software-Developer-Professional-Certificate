@@ -1,13 +1,36 @@
 # IBM-Full-Stack-Software-Developer-Professional-Certificate
 
+![image](https://github.com/user-attachments/assets/47e5f072-f606-45fc-909b-c07282ccad74)
+
+**Course Link:** https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer
+
+**Certification Link:** https://www.coursera.org/account/accomplishments/specialization/UHJHE5T3AF84
+
+### What you'll learn
+- Develop with front-end development languages and tools such as HTML, CSS, JavaScript, React and Bootstrap
+- Program applications using back-end languages and frameworks like Express, Node.js, Python, Django, etc.
+- Deploy and scale applications using Cloud Native methodologies and tools like Containers, Kubernetes, Microservices and Serverless Functions
+- Build your GitHub portfolio by applying your Full Stack Cloud Development skills with multiple labs and hands-on projects, including a capstone
+
 
 ## Introduction to HTML, CSS, & JavaScript
+
+![image](https://github.com/user-attachments/assets/2618302d-cdd2-4dd1-b530-0f30d512e386)
+
+**Course Link:** https://www.coursera.org/learn/introduction-html-css-javascript?specialization=ibm-full-stack-cloud-developer
+
 ### By learning the fundamentals of HTML5, CSS, and JavaScript you will be able to combine them to:  
 - create the basic structure of a website  
 - create format and layout for web applications 
 - enhance your website and create rich, interactive applications 
 - increase user interactivity and enhance user experience 
 - give your website a real wow factor
+
+### Skills you'll gain
+- Web Development
+- JavaScript
+- Web
+- Cascading Style Sheets (CSS)
 
 ### Final Project: Single Page Portfolio Website 
 
@@ -21,6 +44,8 @@
 
 
 ## Developing Front-End Apps with React
+
+
 ### What you'll learn
 - Develop interactive user interfaces (UIs) and web applications using JavaScript technologies including React, JSX, and ES6
 - Build dynamic front-end applications quickly and easily with reusable React components
