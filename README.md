@@ -80,7 +80,7 @@
 - Use npm to manage Node.js packages in your Node.js application
 - Develop asynchronous callback functions and promises to complete asynchronous operations
 
-Skills you'll gain
+### Skills you'll gain
 - Server-side JavaScript
 - back-end development
 - Computer Science
